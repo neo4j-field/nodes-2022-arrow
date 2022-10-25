@@ -1,0 +1,5 @@
+notebooks/answers/.ipynb_checkpoints
+notebooks/.ipynb_checkpoints
+notebooks/__pycache__
+.*.swp
+notebooks/answers/__pycache__

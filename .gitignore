@@ -1,5 +1,5 @@
-notebooks/answers/.ipynb_checkpoints
-notebooks/.ipynb_checkpoints
-notebooks/__pycache__
+notebooks/the_answers/.ipynb_checkpoints
+notebooks/tasks/.ipynb_checkpoints
+notebooks/tasks/__pycache__
 .*.swp
-notebooks/answers/__pycache__
+notebooks/the_answers/__pycache__
